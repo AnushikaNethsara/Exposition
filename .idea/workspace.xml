@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afa7935a-1e51-47c5-9710-b34a316570aa" name="Default Changelist" comment="stepper">
+      <change beforePath="$PROJECT_DIR$/FrontEnd/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Compcss/iuac.css" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/components/Compcss/iuac.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d5OtPIhGKTsPaPywxu12rJPjL6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FrontEnd/src/img/IUAC" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Work\Exposition\FrontEnd\src\img\IUAC" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afa7935a-1e51-47c5-9710-b34a316570aa" name="Default Changelist" comment="" />
+      <created>1591711701069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591711701069</updated>
+      <workItem from="1591711702555" duration="6884000" />
+      <workItem from="1591756728433" duration="2292000" />
+      <workItem from="1591948708233" duration="15858000" />
+      <workItem from="1592149812301" duration="494000" />
+      <workItem from="1592150353224" duration="1980000" />
+      <workItem from="1592964656444" duration="5586000" />
+      <workItem from="1592995422586" duration="76000" />
+      <workItem from="1593578530111" duration="1061000" />
+      <workItem from="1593653538644" duration="148000" />
+      <workItem from="1593654581257" duration="105000" />
+      <workItem from="1593654705736" duration="4000" />
+      <workItem from="1593703173732" duration="2809000" />
+      <workItem from="1593738417738" duration="11453000" />
+      <workItem from="1594550239128" duration="6841000" />
+      <workItem from="1595399935427" duration="186000" />
+      <workItem from="1595691241030" duration="580000" />
+      <workItem from="1597490976785" duration="658000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit7">
+      <created>1591975096270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591975096271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit7">
+      <created>1592151103425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592151103425</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit8(buttons)">
+      <created>1593755906138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593755906139</updated>
+    </task>
+    <task id="LOCAL-00004" summary="stepper">
+      <created>1594570919401</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594570919401</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit6" />
+    <MESSAGE value="commit7" />
+    <MESSAGE value="commit7(buttons)" />
+    <MESSAGE value="commit8(buttons)" />
+    <MESSAGE value="stepper" />
+    <option name="LAST_COMMIT_MESSAGE" value="stepper" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594568143921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594568143921" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1594570917043">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594570917043" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1595400047009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595400047009" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594570961113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594570961113" />
+    <state x="479" y="200" key="git4idea.merge.GitPullDialog" timestamp="1594570937961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="200" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1594570937961" />
+    <state x="209" y="32" key="new project wizard" timestamp="1595400049104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595400049104" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/src/components/IUAC.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
